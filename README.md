@@ -1,2 +1,3 @@
 # seville77
-repo for 1977 Seville 
+This is the repo for 1977 Seville.
+One color is Florentine Gold Firemist.
